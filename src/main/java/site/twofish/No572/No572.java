@@ -1,4 +1,4 @@
-package site.twofish;
+package site.twofish.No572;
 
 import java.util.Stack;
 
@@ -103,7 +103,7 @@ class Solution2 {
     }
 }
 
-public class SubTree572 {
+public class No572 {
     public static void main(String[] args) {
 
     }
