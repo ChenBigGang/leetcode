@@ -1,4 +1,4 @@
-package site.twofish.No69;
+package site.twofish.bisection.No69;
 
 /**
  * @author:ganggang
